@@ -35,6 +35,10 @@ $palette-red:
 "255,23,68"
 "213,0,0";
 
+@for $i from 1 to 14 {
+  
+}
+
 $palette-red-50: nth($palette-red, 1);
 $palette-red-100: nth($palette-red, 2);
 $palette-red-200: nth($palette-red, 3);
